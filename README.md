@@ -1,0 +1,2 @@
+# compactai
+Compact AI website
